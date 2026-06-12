@@ -101,7 +101,7 @@ export default function MusicPlayer() {
 
   return (
     <main className="min-h-screen bg-neutral-900 text-white flex flex-col items-center py-12 px-6 font-sans">
-      <h1 className="text-4xl font-bold mb-8 tracking-tight">Discord <span className="text-red-500">Music</span></h1>
+      <h1 className="text-4xl font-bold mb-8 tracking-tight">Tai <span className="text-red-500">Phayu</span></h1>
       
       {/* ส่วนเครื่องเล่นหลัก */}
       <div className="bg-neutral-800 p-8 rounded-2xl shadow-2xl w-full max-w-md border border-neutral-700">
